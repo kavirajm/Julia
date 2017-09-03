@@ -11,11 +11,6 @@
     src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
 }
 
-#notebook_panel { /* main background */
-    background: #ddd;
-    color: #000000;
-}
-
 
 
 /* Formatting for header cells */
